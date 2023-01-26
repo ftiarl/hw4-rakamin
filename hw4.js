@@ -8,7 +8,6 @@ function nilairandomArray(jumlah) {
 
 let array = nilairandomArray(100);
 
-
 let genap = [];
 let ganjil = [];
 for (i = 0; i < array.length; i++) {
