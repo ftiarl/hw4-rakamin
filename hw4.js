@@ -64,7 +64,6 @@ console.log("100 Nilai Random Array : " + array + "\n");
 console.log("50 Nilai Array Ganjil : " + ganjil + "\n");
 console.log("50 Nilai Array Genap : " + genap + "\n");
 
-
 console.log("100 Nilai Random Array Max : " + nilaiMax(array));
 console.log("100 Nilai Random Array Min : " + nilaiMin(array));
 console.log("100 Nilai Random Array Total : " + nilaiTotal(array));
@@ -79,7 +78,6 @@ console.log("50 Nilai Array Genap Max : " + nilaiMax(genap));
 console.log("50 Nilai Array Genap Min : " + nilaiMin(genap));
 console.log("50 Nilai Array Genap Total : " + nilaiTotal(genap));
 console.log("50 Nilai Array Genap Rata-rata : " + nilaiRataRata(genap) + "\n");
-
 
 console.log("Nilai Max : " + perbandingan(nilaiMax(ganjil), nilaiMax(genap)));
 console.log("Nilai Min : " + perbandingan(nilaiMin(ganjil), nilaiMin(genap)));
